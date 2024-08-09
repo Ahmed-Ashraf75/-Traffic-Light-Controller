@@ -6,7 +6,7 @@ A simple embedded system using PIC16F877A simulates a traffic light system betwe
 
 
 
-Source Code: project/Code/Traffic_Light_System.c
+Source Code: project/code/e project.c
 
 Proteus Simulation: project/Circuit/Traffic_Light_System.pdsprj
 
