@@ -8,6 +8,6 @@ A simple embedded system using PIC16F877A simulates a traffic light system betwe
 
 Source Code: project/code/e project.c
 
-Proteus Simulation: project/Circuit/Traffic_Light_System.pdsprj
+Proteus Simulation: project/circiut/circiut.pdsprj
 
 View the simulation test on YouTube: https://youtu.be/upTqcYONl1o?si=ncHuSq3_dFHVURQ1
